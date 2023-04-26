@@ -1,5 +1,4 @@
 /* Start Global Rules */
-/* Start Global Rules */
 * {
    -webkit-box-sizing: border-box;
    -moz-box-sizing: border-box;
@@ -58,7 +57,7 @@ ul {
 /* End Global Rules */
 /* Start Section */
 section {
-   background-image: url('/images/background.png');
+   background-image: url('./images/background.png');
    background-repeat: no-repeat;
    background-size: cover;
    background-position: center;
